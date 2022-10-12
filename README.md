@@ -22,3 +22,7 @@ All the data you'll want to work with will go into data.
 ### Best Practices
 
 Commit and save changes often and push to github. 
+
+### Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Wang-Bioinformatics-Lab/WorkflowDataReanalysis_Template/master?labpath=src%2Fjupyternotebook.ipynb)
